@@ -2,12 +2,15 @@
 
 ### Abstract
 **In this report, we aim to explore how the complexity of hidden layers affects the learning capacity of an agent in the context of reinforcement learning. We trained a deep neural network to approximate the Q-function of the popular two-player games Connect Four and Score Four. We vary the capacity by changing the number of hidden layers and the corresponding activation function. To evaluate the performance, we picked several test cases and observed how the agent performs. As baseline, we implemented a player with a few hard-coded rules. We compared this player with the trained networks and with a player trained on the same objective,but with linear regression, which served as another baseline.We found that the neural networks outperform the linear regression player compared to the hard-coded player. Our results concerning the network architecture are inconclusive.**
+*Full report is in /report.pdf*
 
 Authors:
 1. Aneesh Dahiya
 2. Jim Buffat
 3. Jonathan Lehner
 4. Till Schnabel
+
+**All auhtors contributed equally to this work.**
 
 ## Requirements:
 These were the packages and module versions we used during our experiments. 
